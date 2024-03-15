@@ -1,0 +1,13 @@
+{
+  "shell_port": 38235,
+  "iopub_port": 39269,
+  "stdin_port": 33989,
+  "control_port": 53863,
+  "hb_port": 46549,
+  "ip": "127.0.0.1",
+  "key": "23f4588a-4de50a0dc6fed60f578ab8ad",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter/PDF_RAG.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 37771,
+  "iopub_port": 43215,
+  "stdin_port": 36167,
+  "control_port": 56901,
+  "hb_port": 35911,
+  "ip": "127.0.0.1",
+  "key": "d696c720-a2652d450c33c828187d7c45",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter/Accuracy.ipynb"
+}
